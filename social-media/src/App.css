@@ -1,0 +1,29 @@
+.main-cont{
+    display: flex;
+}
+.content{
+    width:100%;
+}
+
+.sider{
+    min-height: 800px;
+}
+
+.post-card{
+    min-width:30rem;
+    margin:20px
+}
+.post-tags{
+    margin:5px
+}
+
+.reactions{
+    margin:10px;
+    min-width:30px;
+}
+
+.create-post{
+    width:80%;
+    margin:10px;
+    padding: 20px;  
+}

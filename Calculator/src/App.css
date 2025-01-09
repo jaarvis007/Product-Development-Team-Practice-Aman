@@ -1,0 +1,28 @@
+.main-cal{
+  border-radius: 5px;
+  border: solid;
+  width: 250px;
+  height: 400px;
+}
+
+input{
+  font-size: 35px;
+  width: 87%;
+  height: 40px;
+  margin:10px
+}
+
+.button-cont{
+  display:flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 10px
+}
+
+button{
+  width: 45px;
+  height: 45px;
+  margin:3px;
+  font-size: 20px;
+  
+}

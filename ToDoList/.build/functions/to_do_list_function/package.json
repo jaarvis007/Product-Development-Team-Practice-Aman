@@ -1,0 +1,9 @@
+{
+	"name": "to_do_list_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "amanjain637061@gmail.com",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}
